@@ -1,0 +1,27 @@
+{
+  "name": "+000 7777 7777",
+  "description": "+000 7777 7777 from the Hoffman Anons collection. A digital collectible, not a phone number.",
+  "image": "https://ahonkhai.github.io/hoffman-anons-metadata/images/77777777.png",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Palindrome"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Mirror Halves"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Repeating Pair"
+    },
+    {
+      "trait_type": "First Digit",
+      "value": "7"
+    }
+  ]
+}

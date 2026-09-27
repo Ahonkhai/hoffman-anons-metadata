@@ -1,0 +1,15 @@
+{
+  "name": "+000 0411 0411",
+  "description": "+000 0411 0411 from the Hoffman Anons collection. A digital collectible, not a phone number.",
+  "image": "https://ahonkhai.github.io/hoffman-anons-metadata/images/04110411.png",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Mirror Halves"
+    },
+    {
+      "trait_type": "First Digit",
+      "value": "0"
+    }
+  ]
+}

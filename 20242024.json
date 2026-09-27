@@ -1,0 +1,19 @@
+{
+  "name": "+000 2024 2024",
+  "description": "+000 2024 2024 from the Hoffman Anons collection. A digital collectible, not a phone number.",
+  "image": "https://ahonkhai.github.io/hoffman-anons-metadata/images/20242024.png",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Mirror Halves"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "First Digit",
+      "value": "2"
+    }
+  ]
+}

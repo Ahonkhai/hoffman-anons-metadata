@@ -1,0 +1,15 @@
+{
+  "name": "+000 6666 8811",
+  "description": "+000 6666 8811 from the Hoffman Anons collection. A digital collectible, not a phone number.",
+  "image": "https://ahonkhai.github.io/hoffman-anons-metadata/images/66668811.png",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Run of 4"
+    },
+    {
+      "trait_type": "First Digit",
+      "value": "6"
+    }
+  ]
+}

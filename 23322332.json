@@ -1,0 +1,23 @@
+{
+  "name": "+000 2332 2332",
+  "description": "+000 2332 2332 from the Hoffman Anons collection. A digital collectible, not a phone number.",
+  "image": "https://ahonkhai.github.io/hoffman-anons-metadata/images/23322332.png",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Palindrome"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Mirror Halves"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Two-Tone"
+    },
+    {
+      "trait_type": "First Digit",
+      "value": "2"
+    }
+  ]
+}
